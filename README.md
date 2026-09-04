@@ -21,7 +21,7 @@ It provides an easy-to-use interface, multilingual support (**Arabic & English**
 
 | Home | Report                                  | Matches |
 |------|-----------------------------------------|---------|
-| ![Home](APP/docs/screenshots/home.png) | ![Report](docs/screenshots/reports.png) | ![Matches](docs/screenshots/match.png) |
+| ![Home](APP/docs/screenshots/home.jpg) | ![Report](docs/screenshots/reports.png) | ![Matches](docs/screenshots/match.png) |
 
 
 ---
